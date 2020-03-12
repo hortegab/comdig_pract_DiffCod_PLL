@@ -1007,34 +1007,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(172, 248)</value>
-    </param>
-    <param>
-      <key>_rotation</key>
-      <value>270</value>
-    </param>
-    <param>
-      <key>id</key>
-      <value>Tx_1_0</value>
-    </param>
-    <param>
-      <key>stream_id</key>
-      <value>T8</value>
-    </param>
-  </block>
-  <block>
-    <key>virtual_sink</key>
-    <param>
-      <key>comment</key>
-      <value></value>
-    </param>
-    <param>
-      <key>_enabled</key>
-      <value>1</value>
-    </param>
-    <param>
-      <key>_coordinate</key>
-      <value>(428, 248)</value>
+      <value>(396, 248)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1061,34 +1034,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(164, 352)</value>
-    </param>
-    <param>
-      <key>_rotation</key>
-      <value>90</value>
-    </param>
-    <param>
-      <key>id</key>
-      <value>Tx_1_0_0_0</value>
-    </param>
-    <param>
-      <key>stream_id</key>
-      <value>R8</value>
-    </param>
-  </block>
-  <block>
-    <key>virtual_sink</key>
-    <param>
-      <key>comment</key>
-      <value></value>
-    </param>
-    <param>
-      <key>_enabled</key>
-      <value>1</value>
-    </param>
-    <param>
-      <key>_coordinate</key>
-      <value>(428, 344)</value>
+      <value>(396, 344)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1115,7 +1061,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(948, 368)</value>
+      <value>(916, 368)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1142,7 +1088,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(724, 248)</value>
+      <value>(692, 248)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1169,7 +1115,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(724, 360)</value>
+      <value>(692, 360)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1196,7 +1142,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(948, 240)</value>
+      <value>(916, 240)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1223,7 +1169,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1124, 240)</value>
+      <value>(1116, 240)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1553,7 +1499,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(280, 156)</value>
+      <value>(248, 156)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1600,7 +1546,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(336, 476)</value>
+      <value>(304, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1706,7 +1652,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(656, 476)</value>
+      <value>(624, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1812,7 +1758,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(208, 476)</value>
+      <value>(176, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1918,7 +1864,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(496, 156)</value>
+      <value>(464, 156)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1973,7 +1919,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(496, 468)</value>
+      <value>(464, 468)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2259,7 +2205,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(776, 476)</value>
+      <value>(744, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2302,7 +2248,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(792, 164)</value>
+      <value>(760, 164)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2345,7 +2291,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1000, 164)</value>
+      <value>(968, 164)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2388,7 +2334,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(992, 476)</value>
+      <value>(960, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2745,7 +2691,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(504, 700)</value>
+      <value>(544, 700)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2757,7 +2703,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>ADAPTATION LAYER</value>
+      <value>CAPA Adaptacion</value>
     </param>
   </block>
   <block>
@@ -2776,7 +2722,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(232, 292)</value>
+      <value>(128, 284)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2788,7 +2734,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>CAPA7 CUANTIFICACION</value>
+      <value>CAPA APLICACION</value>
     </param>
   </block>
   <block>
@@ -2807,7 +2753,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(792, 300)</value>
+      <value>(760, 284)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2819,7 +2765,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>CAPA3 COD DIF</value>
+      <value>CAPA COD DIF</value>
     </param>
   </block>
   <block>
@@ -2838,7 +2784,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1000, 292)</value>
+      <value>(968, 284)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2850,7 +2796,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>CAPA2 MAP</value>
+      <value>CAPA MAP</value>
     </param>
   </block>
   <block>
@@ -2869,7 +2815,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(104, 700)</value>
+      <value>(88, 700)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2881,7 +2827,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>Modulation</value>
+      <value>CAPA Modulacion</value>
     </param>
   </block>
   <block>
@@ -2900,7 +2846,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(504, 284)</value>
+      <value>(472, 284)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2912,38 +2858,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>note</key>
-      <value>CAPA3 M-PAM</value>
-    </param>
-  </block>
-  <block>
-    <key>note</key>
-    <param>
-      <key>alias</key>
-      <value></value>
-    </param>
-    <param>
-      <key>comment</key>
-      <value></value>
-    </param>
-    <param>
-      <key>_enabled</key>
-      <value>1</value>
-    </param>
-    <param>
-      <key>_coordinate</key>
-      <value>(8, 284)</value>
-    </param>
-    <param>
-      <key>_rotation</key>
-      <value>0</value>
-    </param>
-    <param>
-      <key>id</key>
-      <value>note_0_1</value>
-    </param>
-    <param>
-      <key>note</key>
-      <value>CAPA8 MENSAJE</value>
+      <value>CAPA M-PAM</value>
     </param>
   </block>
   <block>
@@ -3450,7 +3365,7 @@ print("codigo inverso = ", mapinverse)
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1124, 360)</value>
+      <value>(1116, 360)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -3914,12 +3829,6 @@ def rrcos(Sps,ntaps,beta):
   </connection>
   <connection>
     <source_block_id>blocks_multiply_const_vxx_0_0_0</source_block_id>
-    <sink_block_id>Tx_1_0_0_0</sink_block_id>
-    <source_key>0</source_key>
-    <sink_key>0</sink_key>
-  </connection>
-  <connection>
-    <source_block_id>blocks_multiply_const_vxx_0_0_0</source_block_id>
     <sink_block_id>audio_sink_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
@@ -3951,12 +3860,6 @@ def rrcos(Sps,ntaps,beta):
   <connection>
     <source_block_id>blocks_unpacked_to_packed_xx_0</source_block_id>
     <sink_block_id>blocks_char_to_float_0</sink_block_id>
-    <source_key>0</source_key>
-    <sink_key>0</sink_key>
-  </connection>
-  <connection>
-    <source_block_id>blocks_wavfile_source_0</source_block_id>
-    <sink_block_id>Tx_1_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
