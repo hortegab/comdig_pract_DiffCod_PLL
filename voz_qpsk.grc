@@ -89,7 +89,7 @@ blocks:
     precision: '8'
     rot_sym: '4'
     soft_dec_lut: None
-    sym_map: ''
+    sym_map: (0,1,2,3)
     type: calcdist
   states:
     bus_sink: false
@@ -703,7 +703,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: /home/uis-e3t/MisGits/comdig_pract_DiffCod_PLL/bush-clinton_debate_waffle.wav
+    file: /home/hortegab/MisGits/comdig_pract_DiffCod_PLL/bush-clinton_debate_waffle.wav
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
