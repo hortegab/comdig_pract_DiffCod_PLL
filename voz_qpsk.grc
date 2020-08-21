@@ -473,7 +473,7 @@ blocks:
   parameters:
     Ch_Loss_dB: '0'
     Ch_NodB: '-65'
-    Ch_Phoffset: 3*math.pi/4
+    Ch_Phoffset: '0'
     Ch_Toffset: '0'
     Fluctuacion: '0.'
     Foffset: '0'
